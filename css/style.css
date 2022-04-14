@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+div{
+    height: 1000px;
+    color: red;
+    height: 800px;
+    display: flex;
+    font-size: 70px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.bigimg{
+    background: url(./pexels-alexas-fotos-2220336.jpg);
+}
+.smallimg {
+    background: url(./pexels-bruno-pires-10164506.jpg);
+}
+.folderimg {
+    background: url(./pexels-brady-knoll-3744162.jpg);
+}
